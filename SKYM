@@ -7,9 +7,19 @@ Nif Skope
 
 
 1.安裝需要的美化模組
+(對~前置環境~.~MO模組管理器~.~SKSE通通先裝起來~.~ENB~)
+
 2.記下美化部位
 眼睛
 眉毛
 頭髮 (記下頭髮顏色代碼)
 3.完成後點選 Scuplt tab ,F5輸出頭
 (影片1:56秒)
+4.美化資料夾主要分" meshes " , "textures"
+
+在Data ->Meshes ->actors -> Characters新建一資料夾(自行英文命名)
+在Meshes資料夾是所有美化模組(.nif)放置的地方.要從各美化模組自己複製貼上。
+在Textures資料夾是所有美化模組(.dds)放置的地方.要從各美化模組自己複製貼上。
+
+5.打開CK data->files ->SKYRIM.update.esm 打勾
+(3:31)
